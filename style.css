@@ -1,0 +1,43 @@
+.title {
+    font-size: 80px;
+    font-weight: 800;
+    color: cyan;
+    text-align: center;
+    height: 80px;
+}
+
+.красный {
+    margin: 40px 0 0 0;
+    background: red;
+    height: 60px;
+}
+
+.оранжевый {
+    background: orange;
+    height: 60px;
+}
+
+.желтый {
+    background: yellow;
+    height: 60px;
+}
+
+.зеленый {
+    background: green;
+    height: 60px;
+}
+
+.голубой {
+    background: rgb(153, 230, 255);
+    height: 60px;
+}
+
+.синий {
+    background: rgb(0, 81, 255);
+    height: 60px;
+}
+
+.фиолетовый {
+    background: rgb(153, 0, 255);
+    height: 60px;
+}
